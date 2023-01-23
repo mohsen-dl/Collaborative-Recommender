@@ -33,3 +33,7 @@ It's also important to test the model with A/B testing, which is a technique for
 There are several sources where you can find suitable datasets for building a personalized recommendation system. One popular options include:
 
 The MovieLens dataset: This dataset contains more than 20 million ratings and 465,000 tag applications applied to 27,000 movies by 138,000 users. It's one of the most popular datasets for building recommendation systems and is available for free on the GroupLens website (https://grouplens.org/datasets/movielens/).
+
+=====================================================================
+
+This is just a simple example, but there are many other datasets available for building recommendation systems. It's always a good idea to check different sources and find the dataset that best fits your project's requirements.
